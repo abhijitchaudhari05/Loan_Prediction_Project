@@ -33,3 +33,5 @@ It includes data cleaning, visualization, feature engineering, and model evaluat
 **Abhijit Chaudhari**  
 📍 Pune, Maharashtra  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhijitchaudhari05) | [GitHub](https://github.com/abhijitchaudhari05)
+![Project Preview](https://github.com/abhijitchaudhari05/Loan_Prediction_Project/blob/5aabe956202d39323f34d707c9b04ddb77ecb3fb/image.png)
+
