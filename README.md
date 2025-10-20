@@ -1,8 +1,3 @@
-# Loan Approval Prediction using Logistic Regression
-
-![Project Preview](https://github.com/abhijitchaudhari05/Loan_Prediction_Project/blob/5aabe956202d39323f34d707c9b04ddb77ecb3fb/image.png)
-
-
 # 🏦 Loan Approval Prediction Project
 
 ### 📘 Overview
